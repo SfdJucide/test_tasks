@@ -4,6 +4,7 @@
 # Projects
 Project Name|Description |
 -----------|:-------:
-Тестовое задание на позицию Junior Analyst | Development of a simple CI/CD for the Bash text utilities: cat, grep.
+Тестовое задание на позицию Junior Analyst | Предобработка и очистка данных, анализ показателей внутри компании, рассчет бонуса для менеджеров
+Тестовое задание инженер данных | Построение отчета на основе полученных данных
 
 
