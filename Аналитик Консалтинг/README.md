@@ -16,5 +16,5 @@
 Выявите зависимости между составными частями дохода
 
 ### Файлы
-- FormulaResearch.ipynb - Отчет по восстановлению формулы ([Полная версия с графиками](https://nbviewer.org/github/SfdJucide/test_tasks/blob/main/Аналитик%20Консалтинг/FormulaResearch.ipynb)
+- FormulaResearch.ipynb - Отчет по восстановлению формулы ([Полная версия с графиками](https://nbviewer.org/github/SfdJucide/test_tasks/blob/main/Аналитик%20Консалтинг/FormulaResearch.ipynb))
 - Задание 5.0 2 версия.xlsx - Представленные данные
